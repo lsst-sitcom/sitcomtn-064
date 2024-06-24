@@ -1,0 +1,17 @@
+[technote]
+id = "SITCOMTN-064"
+series_id = "SITCOMTN"
+canonical_url = "https://sitcomtn-064.lsst.io/"
+github_url = "https://github.com/lsst-sitcom/sitcomtn-064"
+github_default_branch = "main"
+organization.name = "Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+[[technote.authors]]
+name = {given = "Johnny H.", family = "Esteves"}
+internal_id = "estevesjh"
+orcid = "https://orcid.org/0000-0003-4373-2386"
+[[technote.authors.affiliations]]
+name = "Department of Physics"
+internal_id = "Harvard-Physics"
+address = "Harvard University, 17 Oxford St., Cambridge MA 02138, USA"
